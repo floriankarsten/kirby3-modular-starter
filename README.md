@@ -1,7 +1,7 @@
 # Kirby modular starter
 Ongoing work.
 
-Plain kirby theme that is based fully around modules. It's both starter to be remixed and good enough as it is.
+Plain kirby theme that is based fully around site builder blocks. It's both starter to be remixed and good enough as it is.
 
 It's developed every week live in streaming sessions https://floriankarsten.com/streaming
 
