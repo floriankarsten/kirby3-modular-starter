@@ -1,0 +1,19 @@
+name: Index
+label: Index
+tabs:
+  content:
+    label: Content
+    icon: edit
+    fields:
+      root:
+        label: Root page for Index
+        type: select
+        options: query
+        query: site.index
+  style:
+    label: Style
+    icon: cog
+    fields:
+      fullHeight:
+        label: Spans full height
+        type: toggle

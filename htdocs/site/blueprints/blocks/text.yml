@@ -1,0 +1,17 @@
+name: Text
+label: Text
+tabs:
+  content:
+    label: Content
+    icon: edit
+    fields:
+      text:
+        label: Text
+        type: textarea
+  style:
+    label: Style
+    icon: cog
+    fields:
+      fullHeight:
+        label: Spans full height
+        type: toggle

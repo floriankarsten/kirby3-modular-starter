@@ -1,0 +1,9 @@
+title: Modular Page
+preset: page
+fields:
+  builder:
+    label: Page Builder
+    type: builder
+    fieldsets:
+      text: blocks/text
+      index: blocks/index
