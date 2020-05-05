@@ -8,13 +8,11 @@ It's developed every week live in streaming sessions https://floriankarsten.com/
 *Please post ideas for modules into github issues.*
 
 ## How to start
-To get you started 5 step procedure.
+To install all dependencies. In root
 ```
-1. git clone https://github.com/floriankarsten/kirby3-mix-build-kit project
-2. cd project
-3. npm install
-4. cd htdocs
-5. composer install
+npm install
+cd htdocs
+composer install
 ```
 
 Then point your webserver to ```htodcs/public``` folder.
