@@ -1,0 +1,3 @@
+[submodule "htdocs/site/plugins/kirby-merkur"]
+	path = htdocs/site/plugins/kirby-merkur
+	url = https://iskrisis@github.com/floriankarsten/kirby3-merkur.git
