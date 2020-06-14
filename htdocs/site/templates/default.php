@@ -1,7 +1,7 @@
 <?php snippet('head') ?>
-
+<H1>what is this</H1>
 <?php
-foreach($page->builder()->toBuilderBlocks() as $block):
+foreach($page->merkur()->toBuilderBlocks() as $block):
   snippet('blocks/' . $block->_key(), array('data' => $block));
 endforeach;
 ?>
